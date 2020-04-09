@@ -1,0 +1,6 @@
+C:\Users\bahaa\source\repos\BANK\BANK\obj\Debug\BANK.csprojAssemblyReference.cache
+C:\Users\bahaa\source\repos\BANK\BANK\bin\Debug\BANK.exe.config
+C:\Users\bahaa\source\repos\BANK\BANK\bin\Debug\BANK.exe
+C:\Users\bahaa\source\repos\BANK\BANK\bin\Debug\BANK.pdb
+C:\Users\bahaa\source\repos\BANK\BANK\obj\Debug\BANK.exe
+C:\Users\bahaa\source\repos\BANK\BANK\obj\Debug\BANK.pdb
